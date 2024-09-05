@@ -1,0 +1,14 @@
+C:\Users\sjdro\source\repos\LW1_Siadro\LW1_Siadro\bin\Debug\LW1_Siadro.exe.config
+C:\Users\sjdro\source\repos\LW1_Siadro\LW1_Siadro\bin\Debug\LW1_Siadro.exe
+C:\Users\sjdro\source\repos\LW1_Siadro\LW1_Siadro\bin\Debug\LW1_Siadro.pdb
+C:\Users\sjdro\source\repos\LW1_Siadro\LW1_Siadro\obj\Debug\LW1_Siadro.csproj.AssemblyReference.cache
+C:\Users\sjdro\source\repos\LW1_Siadro\LW1_Siadro\obj\Debug\LW1_Siadro.csproj.CoreCompileInputs.cache
+C:\Users\sjdro\source\repos\LW1_Siadro\LW1_Siadro\obj\Debug\LW1_Siadro.exe
+C:\Users\sjdro\source\repos\LW1_Siadro\LW1_Siadro\obj\Debug\LW1_Siadro.pdb
+C:\Users\sjdro\source\repos\LW1_Siadro\LabWork1_Siadro\LW1_Siadro\bin\Debug\LW1_Siadro.exe.config
+C:\Users\sjdro\source\repos\LW1_Siadro\LabWork1_Siadro\LW1_Siadro\bin\Debug\LW1_Siadro.exe
+C:\Users\sjdro\source\repos\LW1_Siadro\LabWork1_Siadro\LW1_Siadro\bin\Debug\LW1_Siadro.pdb
+C:\Users\sjdro\source\repos\LW1_Siadro\LabWork1_Siadro\LW1_Siadro\obj\Debug\LW1_Siadro.csproj.AssemblyReference.cache
+C:\Users\sjdro\source\repos\LW1_Siadro\LabWork1_Siadro\LW1_Siadro\obj\Debug\LW1_Siadro.csproj.CoreCompileInputs.cache
+C:\Users\sjdro\source\repos\LW1_Siadro\LabWork1_Siadro\LW1_Siadro\obj\Debug\LW1_Siadro.exe
+C:\Users\sjdro\source\repos\LW1_Siadro\LabWork1_Siadro\LW1_Siadro\obj\Debug\LW1_Siadro.pdb
